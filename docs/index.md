@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Salceda Solórzano Román Said
+- **Correo**: 316347460@pcpuma.acatlan.unam.mx

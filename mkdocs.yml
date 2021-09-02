@@ -11,9 +11,9 @@ extra_css:
     - css/page.css
 nav:
     - Individuales:
-        - Actividad 1: todo.md
-        - Actividad 2: todo.md
+        - Actividad 1: individual/Actividad-01.md
+        - Actividad 2: individual/Actividad-02.md
     - Colaborativas:
         - Actividad 1: todo.md
-copyright: ©GMDXX
-site_author: GMDXX
+copyright: ©SSRS
+site_author: SSRS
