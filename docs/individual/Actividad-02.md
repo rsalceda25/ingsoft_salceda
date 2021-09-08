@@ -11,17 +11,19 @@ Un diagrama de Gantt es una herramienta útil para planificar proyectos. Al prop
 
 # ¿Qué nos muestra un diagrama de Gantt?
 
-**La fecha de inicio y finalización de un proyecto.**
+<img src="/archivos/index/gantt.png" alt="drawing" width="200" style="width: 25%;"/>
 
-**Qué tareas hay dentro del proyecto.**
+- **La fecha de inicio y finalización de un proyecto.**
 
-**Quién está trabajando en cada tarea.**
+- **Qué tareas hay dentro del proyecto.**
 
-**La fecha programada de inicio y finalización de las tareas.**
+- **Quién está trabajando en cada tarea.**
 
-**Una estimación de cuánto llevará cada tarea.**
+- **La fecha programada de inicio y finalización de las tareas.**
 
-**Cómo se superponen las tareas y/o si hay una relación entre ellas.**
+- **Una estimación de cuánto llevará cada tarea.**
+
+- **Cómo se superponen las tareas y/o si hay una relación entre ellas.**
 
 # Componentes de un diagrama de Gantt
 
@@ -57,9 +59,29 @@ Para que un diagrama de Gantt sea eficaz debes planear tu proyecto de forma line
 3. ***Trabajo arduo:***
 Si vas a usar un diagrama de Gantt, tienes que adaptarlo conforme a dichos cambios. El gestor de proyectos responsable tiene que actualizar el diagrama con frecuencia, aunque esta tarea se puede simplificar con la ayuda de un programa de gestión de proyectos.
 
-# ¿Cómo crear un diagrama de Gantt?
+# Herramientas de Software para Diagramas de Gantt
+Estas son algunas herramientas de software en los que se pueden elaborar diagramas de Gantt
 
-_Proceso:_
+- Excel
+- ProjectLibre
+- GanttProject
+- Microsoft Project
+- Gantter 
 
-1. Hacer una lista de todas las tareas.
-2. Hacer una lista de todas las tareas interdependientes.
+# EJEMPLO
+**Adjunto evidencia de un diagrama de Grantt elaborado en ProjectLibre**
+
+https://github.com/rsalceda25/ingsoft_salceda/blob/37b2937157a1296879cd71db0cc1f2607231fa8e/cronograma_salceda.pod
+
+
+<img src="/archivos/index/ejemplo.jpg" />
+
+
+
+### Referencias 
+https://www.masquenegocio.com/2015/06/25/herramientas-cronograma-gantt/
+
+https://www.teamleader.es/blog/diagrama-de-gantt
+
+https://blog.hubspot.es/marketing/crear-diagrama-gantt
+
