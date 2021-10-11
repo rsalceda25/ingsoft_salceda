@@ -13,6 +13,8 @@ nav:
     - Individuales:
         - Actividad 1: individual/Actividad-01.md
         - Actividad 2: individual/Actividad-02.md
+    - Bonus:
+        - Bonus 2: bonus/Bonus-02.md 
     - Colaborativas:
         - Actividad 1: todo.md
 copyright: ©SSRS
